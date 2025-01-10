@@ -100,7 +100,9 @@ To verify the certificates, click the images to follow the links.
 
 <img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> 
 Python Project for Data Science
+
 Issued by Coursera
+
 Authorized by IBM
 
 This badge earner demonstrates foundational Python skills for working with data. This includes: understanding the role of a Data Scientist / Data Analyst; applying Python fundamentals, working with Python data structures, and working with data in Python; and how to build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
