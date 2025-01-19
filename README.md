@@ -55,7 +55,7 @@ This course is intended to demonstrate foundational Python skills for extracting
 - Data extraction using the yfinance library
 - Webscraping using the BeautifulSoup library
 - Data Analysis
-- Dashboard creation
+- Dashboard creation (Most of it was given in the lab itself)
 
 
 ## 🛠️ Tools
